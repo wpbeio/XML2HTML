@@ -1,0 +1,709 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"W",
+				"WebsiteConstructor	class"
+			],
+			[
+				"dir",
+				"directory"
+			],
+			[
+				"dire",
+				"directory	param"
+			],
+			[
+				"p",
+				"prefix"
+			],
+			[
+				"me",
+				"method	statement"
+			],
+			[
+				"s",
+				"starElement"
+			],
+			[
+				"page",
+				"PageMaker	class"
+			],
+			[
+				"cl",
+				"close	function"
+			],
+			[
+				"wri",
+				"write	function"
+			],
+			[
+				"w",
+				"write	function"
+			],
+			[
+				"render",
+				"renderPDF	module"
+			],
+			[
+				"_",
+				"__init__"
+			],
+			[
+				"list",
+				"ListTiemRule"
+			],
+			[
+				"li",
+				"ListTiemRule"
+			],
+			[
+				"par",
+				"Parser"
+			],
+			[
+				"hand",
+				"handler"
+			],
+			[
+				"rul",
+				"rules"
+			],
+			[
+				"file",
+				"filters"
+			],
+			[
+				"fi",
+				"filter"
+			],
+			[
+				"r",
+				"rules"
+			],
+			[
+				"fo",
+				"from"
+			],
+			[
+				"ma",
+				"match"
+			],
+			[
+				"sub",
+				"sub_"
+			],
+			[
+				"su",
+				"sub_"
+			],
+			[
+				"end",
+				"end_"
+			],
+			[
+				"st",
+				"start_"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "website.xml",
+			"settings":
+			{
+				"buffer_size": 736,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "PageMaker.py",
+			"settings":
+			{
+				"buffer_size": 1128,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "XML2HTML.py",
+			"settings":
+			{
+				"buffer_size": 2449,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 215.0,
+		"last_filter": "Package Control: in",
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: list",
+				"Package Control: List Packages"
+			],
+			[
+				"git push",
+				"Git: Push Current Branch"
+			],
+			[
+				"git com",
+				"Git: Quick Commit"
+			],
+			[
+				"git add",
+				"Git: Quick Add"
+			],
+			[
+				"gitadd",
+				"Git: Quick Add"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"git:push",
+				"Git: Push Current Branch"
+			],
+			[
+				"git:st",
+				"Git: Quick Status"
+			],
+			[
+				"git:com",
+				"Git: Quick Commit Current File"
+			],
+			[
+				"git:add",
+				"Git: Quick Add"
+			],
+			[
+				"git diff",
+				"Git: Diff Cached"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"git stat",
+				"Git: Quick Status"
+			],
+			[
+				"git comm",
+				"Git: Quick Commit"
+			],
+			[
+				"gitcom",
+				"Git: Commit"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"con",
+				"Package Control: Install Package"
+			],
+			[
+				"git:co",
+				"Git: Commit"
+			],
+			[
+				"git:pull",
+				"Git: Pull"
+			],
+			[
+				"git:diff",
+				"Git: Diff"
+			],
+			[
+				"gitpush",
+				"Git: Push Current Branch"
+			],
+			[
+				"gitst",
+				"Git: Status"
+			],
+			[
+				"git:pu",
+				"Git: Push"
+			],
+			[
+				"git:comm",
+				"Git: Commit"
+			],
+			[
+				"git:qu",
+				"Git: Quick Add"
+			],
+			[
+				"git:sta",
+				"Git: Status"
+			],
+			[
+				"git:re",
+				"Git: Remote"
+			],
+			[
+				"git:",
+				"Git: Push"
+			],
+			[
+				"git:rem",
+				"Git: Remote"
+			],
+			[
+				"push",
+				"Git: Push Current Branch"
+			],
+			[
+				"git:log",
+				"Git: Quick Log"
+			],
+			[
+				"git:in",
+				"Git: Init"
+			],
+			[
+				"git:commi",
+				"Git: Quick Commit"
+			],
+			[
+				"git:bran",
+				"Git: Checkout New Branch"
+			],
+			[
+				"git",
+				"Git: Help"
+			],
+			[
+				"git: ",
+				"SublimeGit: Version"
+			],
+			[
+				"git: push",
+				"Git: Push Current Branch"
+			],
+			[
+				"git: log",
+				"Git: Log"
+			],
+			[
+				"git: commi",
+				"Git: Commit"
+			],
+			[
+				"git: add",
+				"Git: Add Current File"
+			],
+			[
+				"git:stu",
+				"Git: Status"
+			],
+			[
+				"Git:co",
+				"Git: Commit"
+			],
+			[
+				"Git:sta",
+				"Git: Status"
+			],
+			[
+				"Git:add",
+				"Git: Quick Add"
+			],
+			[
+				"Git:",
+				"Git: Push"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: git",
+				"Package Control: Upgrade/Overwrite All Packages"
+			]
+		],
+		"width": 600.0
+	},
+	"console":
+	{
+		"height": 659.0,
+		"history":
+		[
+			"python markup.py< testtxt.txt > testoutput.html",
+			"python -u \"C:\\Users\\beioo\\AutoTag\\markup.py\" < testtxt.txt > testoutput.html",
+			"python markup.py <testtxt.txt >test_output.html",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"git",
+			"git add *",
+			"git"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/beioo/NBXML"
+	],
+	"file_history":
+	[
+		"/C/Users/beioo/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/C/Users/beioo/AppData/Roaming/Sublime Text 3/Packages/User/Python.sublime-settings",
+		"/C/Users/beioo/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/C/Users/beioo/Anaconda3/lib/xml/sax/expatreader.py",
+		"/C/Users/beioo/NBXML/index.html",
+		"/C/Users/beioo/AppData/Roaming/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/C/Users/beioo/Modules/pyexpat.c",
+		"/C/Users/beioo/Anaconda3/lib/xml/sax/__init__.py",
+		"/C/Users/beioo/Anaconda3/lib/xml/sax/xmlreader.py",
+		"/C/Users/beioo/NBXML/nbxml.sublime-project",
+		"/C/Users/beioo/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/beioo/AppData/Roaming/Sublime Text 3/Packages/CTags/CTags.sublime-settings",
+		"/C/Users/beioo/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/beioo/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/C/Users/beioo/AppData/Roaming/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/C/Users/beioo/AppData/Roaming/Sublime Text 3/Packages/Anaconda/README.md",
+		"/C/Users/beioo/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Users/beioo/DataAnalysis/test.pdf",
+		"/C/Users/beioo/AutoTag/test.py",
+		"/C/Users/beioo/AutoTag/utils.py",
+		"/C/Users/beioo/DataAnalysis/wahh.pdf",
+		"/C/Users/beioo/Anaconda3/Lib/site-packages/reportlab/graphics/charts/textlabels.py",
+		"/C/Users/beioo/AutoTag/rules.py",
+		"/C/Users/beioo/AutoTag/markup.py",
+		"/C/Users/beioo/AutoTag/testout.html",
+		"/C/Users/beioo/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/beioo/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/C/Users/beioo/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/C/Users/beioo/AutoTag/strainer.py",
+		"/C/Users/beioo/AutoTag/handlers.py",
+		"/C/Users/beioo/AutoTag/testtxt.txt",
+		"/C/Users/beioo/AutoTag/新建文本文档.txt",
+		"/C/Users/beioo/AppData/Roaming/Sublime Text 3/Packages/SublimeGit/sgit/remote.py",
+		"/C/Users/beioo/AppData/Roaming/Sublime Text 3/Packages/SublimeGit/SublimeGit.sublime-settings",
+		"/C/Users/beioo/AppData/Roaming/Sublime Text 3/Packages/User/SublimeGit.sublime-settings",
+		"/C/Users/beioo/AppData/Roaming/Sublime Text 3/Packages/SublimeGit/Default (Windows).sublime-keymap",
+		"/C/Users/beioo/AutoTag/class",
+		"/C/Users/beioo/gittest/test.py",
+		"/C/Users/beioo/AppData/Roaming/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/C/Users/beioo/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/beioo/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/Default (Windows).sublime-keymap",
+		"/C/Users/beioo/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/Default (Windows).sublime-mousemap",
+		"/C/Users/beioo/gittest/push.txt",
+		"/C/Users/beioo/gittest/sss",
+		"/C/Users/beioo/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
+		"/C/Users/beioo/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/C/Users/beioo/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-mousemap",
+		"/C/Users/beioo/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/C/Users/beioo/AppData/Roaming/Sublime Text 3/Packages/emmet-sublime-master.zip",
+		"/C/Users/beioo/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings"
+	],
+	"find":
+	{
+		"height": 61.0
+	},
+	"find_in_files":
+	{
+		"height": 138.0,
+		"where_history":
+		[
+			"C:\\Users\\beioo\\AotuTag"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Dispatcher",
+			"self.out",
+			"ContentHandler",
+			"strokeColor",
+			"format",
+			"format_on_save",
+			"match",
+			"\"format_on_save\":",
+			"\"format_on_save\": true,",
+			"draw_indent_guides",
+			"han"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "website.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 736,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13,
+								17
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "PageMaker.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1128,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1092,
+								1092
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "XML2HTML.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2449,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1067,
+								1067
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 838.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 49.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 427.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 148.0
+	},
+	"output.git-commit":
+	{
+		"height": 148.0
+	},
+	"output.git-init":
+	{
+		"height": 148.0
+	},
+	"output.git-pull":
+	{
+		"height": 148.0
+	},
+	"output.git-push":
+	{
+		"height": 284.0
+	},
+	"output.git-remote":
+	{
+		"height": 148.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 256.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "nbxml.sublime-project",
+	"replace":
+	{
+		"height": 94.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"test.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 75.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
