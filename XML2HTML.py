@@ -2,9 +2,9 @@ from xml.sax.handler import ContentHandler
 from xml.sax import parse
 import os
 
-
-class Dispatcher:
-    """docstring for Dispatcher"""
+'''调用使用的是'''
+class Dispatcher():
+    """工厂模式的工厂"""
 
     def dispatch(self, prefix, name, attrs=None):
         mname = prefix + name.capitalize()
@@ -28,7 +28,7 @@ class Dispatcher:
 
 
 class WebsiteConstructor(Dispatcher, ContentHandler):
-    """docstring for WebsiteConstructo"""
+    """工厂模式的实现方式"""
     passthrough = False
 
     def __init__(self, directory):
